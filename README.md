@@ -11,11 +11,6 @@ Graduada em Enfermagem e especializada em Liderança e Gestão de Pessoas, concl
 Busco oportunidades que conectem tecnologia e negócio, especialmente nas áreas de Análise de Sistemas, QA, Suporte, Implantação de Sistemas e Saúde Digital. Acredito que minha combinação de experiência prática no setor da saúde e formação em tecnologia me permite compreender as necessidades dos usuários e contribuir para a construção de soluções mais eficientes e centradas nas pessoas.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
