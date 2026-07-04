@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Renata Regina Ribeiro Novais
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Backend`**
 
 Me chamo Renata, tenho 26 anos sou uma profissional em transição para a área de Tecnologia, com sólida experiência em operações, atendimento ao cliente, gestão de parceiros e processos na área da saúde.
  
