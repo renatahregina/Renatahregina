@@ -10,23 +10,6 @@ Graduada em Enfermagem e especializada em Liderança e Gestão de Pessoas, concl
  
 Busco oportunidades que conectem tecnologia e negócio, especialmente nas áreas de Análise de Sistemas, QA, Suporte, Implantação de Sistemas e Saúde Digital. Acredito que minha combinação de experiência prática no setor da saúde e formação em tecnologia me permite compreender as necessidades dos usuários e contribuir para a construção de soluções mais eficientes e centradas nas pessoas.
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
