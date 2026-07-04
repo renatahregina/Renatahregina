@@ -11,7 +11,6 @@ Graduada em Enfermagem e especializada em Liderança e Gestão de Pessoas, concl
 Busco oportunidades que conectem tecnologia e negócio, especialmente nas áreas de Análise de Sistemas, QA, Suporte, Implantação de Sistemas e Saúde Digital. Acredito que minha combinação de experiência prática no setor da saúde e formação em tecnologia me permite compreender as necessidades dos usuários e contribuir para a construção de soluções mais eficientes e centradas nas pessoas.
 
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
